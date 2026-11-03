@@ -15,3 +15,5 @@
 git clone https://github.com/<USER>/devops-lab5-student-manager.git
 cd devops-lab5-student-manager
 python src/main.py
+## Tác giả
+- Nhóm A & Nhóm B — DevOps Course, Bài 5
